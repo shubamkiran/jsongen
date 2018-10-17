@@ -1,0 +1,11 @@
+{
+   "chef_type": "HI",
+   "cors_origin_list": "NULL",
+   "default_attributes": "NULL",
+   "description": "NULL",
+   "haproxy-consul": "NULL",
+   "json_class": "NULL",
+   "name": "NULL",
+   "podname": "NULL",
+   "public_cert": "NULL"
+}

@@ -1,0 +1,17 @@
+{
+   "chef_type": "environment",
+   "cookbook_versions": {
+      "haproxy-consul": "3000.0.37"
+   },
+   "default_attributes": {},
+   "description": "",
+   "json_class": "Chef::Environment",
+   "name": "Shubam",
+   "override_attributes": {
+      "haproxy-consul": {
+         "cors_origin_list": "https://intern.informaticacloud.com\nhttps://na1.intern.informaticacloud.com\nhttps://pod2.intern.informaticacloud.com\nhttps://content.intern.informaticacloud.com\nhttps://opsinsights.intern.informaticacloud.com\nhttps://pod1.ai.intern.informaticacloud.com\nhttps://apim-pod1.intern.informaticacloud.com\nhttps://cih-pod1.intern.informaticacloud.com",
+         "podname": "na1-prod",
+         "public_cert": "/etc/ssl/infaca/host-key-bundle.pem"
+      }
+   }
+}
